@@ -73,16 +73,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CalculateOperators.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
@@ -108,20 +108,20 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Pictures\pin_28px.png" />
-    <None Include="Pictures\unpin_28px.png" />
+    <Resource Include="Pictures\pin_28px.png" />
+    <Resource Include="Pictures\unpin_28px.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Pictures\X^Y1.png" />
-    <None Include="Pictures\X^Y.png" />
-    <None Include="Pictures\expand_arrow_15px.png" />
-    <None Include="Pictures\collapse_arrow_15px.png" />
-    <None Include="Pictures\expand_arrow_10px.png" />
-    <None Include="Pictures\collapse_arrow_10px.png" />
-    <None Include="Pictures\down_arrow_10px.png" />
-    <None Include="Pictures\up_arrow_10px.png" />
-    <None Include="Pictures\up_arrow_20px.png" />
-    <None Include="Pictures\down_arrow_20px.png" />
+    <Resource Include="Pictures\X^Y1.png" />
+    <Resource Include="Pictures\X^Y.png" />
+    <Resource Include="Pictures\expand_arrow_15px.png" />
+    <Resource Include="Pictures\collapse_arrow_15px.png" />
+    <Resource Include="Pictures\expand_arrow_10px.png" />
+    <Resource Include="Pictures\collapse_arrow_10px.png" />
+    <Resource Include="Pictures\down_arrow_10px.png" />
+    <Resource Include="Pictures\up_arrow_10px.png" />
+    <Resource Include="Pictures\up_arrow_20px.png" />
+    <Resource Include="Pictures\down_arrow_20px.png" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">

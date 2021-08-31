@@ -1,0 +1,11 @@
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\obj\Debug\MyCalculator.MainForm.resources
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\obj\Debug\MyCalculator.g.resources

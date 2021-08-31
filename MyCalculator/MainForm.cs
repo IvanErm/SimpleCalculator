@@ -6,7 +6,7 @@ using static MyCalculator.CalculateOperators;
 
 namespace MyCalculator
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
         Point currentPosition; //Текщее положение калькулятора
 
@@ -16,7 +16,7 @@ namespace MyCalculator
         private bool isExceptionTrow = false; // Флаг, указывающий о возникновении исключения при вычислении
         private int maxCharCount = 10; //Максимальное количество символов в поле вода
 
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
             this.Height = minOpenedHeight;
@@ -152,7 +152,8 @@ namespace MyCalculator
         private void BaseOperationInvoke(object sender, EventArgs e)
         {
             btn_Equal_Click(null, null);
-            lblPrevInput.Text = tbxInput.Text;
+
+            lblPrevInput.Text = tbxInput.Text.EndsWith(",") ? tbxInput.Text + "0" : tbxInput.Text;
             lblOperation.Text = (sender as Button).Tag.ToString();
 
             ResetInput();

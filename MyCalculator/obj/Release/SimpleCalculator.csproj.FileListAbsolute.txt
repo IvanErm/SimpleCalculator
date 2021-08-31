@@ -1,0 +1,10 @@
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\bin\Release\MyCalculator.exe.config
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\bin\Release\MyCalculator.exe
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\bin\Release\MyCalculator.pdb
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\obj\Release\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\obj\Release\MyCalculator.MainForm.resources
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\obj\Release\MyCalculator.Properties.Resources.resources
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\obj\Release\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\obj\Release\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\obj\Release\MyCalculator.exe
+C:\Users\IvanEr\Desktop\MyPrograms\MyCalculator\MyCalculator\obj\Release\MyCalculator.pdb
